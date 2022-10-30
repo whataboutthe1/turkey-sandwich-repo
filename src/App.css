@@ -1,0 +1,38 @@
+.app {
+  justify-content: center;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+  
+}
+
+.divider {
+  margin-top: 50px;
+  padding: 2rem;
+}
+
+img {
+  height: 200px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  gap: 10px;
+}
+
+.results {
+  display: flex;
+  justify-content: center;
+}

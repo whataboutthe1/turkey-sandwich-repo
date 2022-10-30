@@ -1,0 +1,71 @@
+.mainform {
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.tablewrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.check {
+  border-radius: 10px;
+  border: 2px solid #555558;
+  font-family: sans-serif;
+}
+
+.slabel {
+  font-family: sans-serif;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  flex-wrap: wrap;
+  background: red;
+  border-radius: 15px;
+  width: 40%;
+  gap: 10px;
+  
+}
+
+.subbut {
+  display: flex;
+  justify-content: center;
+}
+
+#subbutton {
+  margin-top: 20px;
+  width: 150px;
+  height: 30px;
+  background-color: #389355;
+  border-radius: 10px;
+  border: 4px double #cccccc;
+}
+
+.search {
+    margin-top: 10px;
+    display:flex;
+    justify-content: center;
+}
+
+#searchbar {
+  border-radius: 10px;
+  width: 295px;
+  height: 30px;
+}
+
+.resultBox {
+  
+}
