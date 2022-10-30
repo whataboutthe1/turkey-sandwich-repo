@@ -7,14 +7,11 @@ export default function App() {
   return (
     <div className="App">
       <header className="header">
-        <h1 className='title'>Allergy Alert</h1>
         <img src='/icons/8.png' />
       </header>
 
       <div className='divider'>
-        <div className='pick'>
-          <hr></hr>
-        </div>
+        <hr></hr>
       </div>
 
       <div className='body'>

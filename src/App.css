@@ -1,26 +1,20 @@
 .app {
-  justify-content: center;
+  font-family: roboto, sans-serif;
 }
 
 .header {
     display: flex;
     flex-direction: column;
-    height: 10%;
     justify-content: center;
     align-items: center;
 }
 
-.title {
-  
-}
-
 .divider {
-  margin-top: 50px;
-  padding: 2rem;
+  padding-bottom: 3rem;
 }
 
 img {
-  height: 200px;
+  height: 400px;
 }
 
 .footer {

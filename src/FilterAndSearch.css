@@ -33,7 +33,7 @@
   justify-content: center;
   padding: 10px;
   flex-wrap: wrap;
-  background: red;
+  background: #ffc7c7;
   border-radius: 15px;
   width: 40%;
   gap: 10px;
@@ -49,9 +49,9 @@
   margin-top: 20px;
   width: 150px;
   height: 30px;
-  background-color: #389355;
+  background-color: #ffc7c7;
   border-radius: 10px;
-  border: 4px double #cccccc;
+  border: 4px double #ffa8a8;
 }
 
 .search {
@@ -64,8 +64,4 @@
   border-radius: 10px;
   width: 295px;
   height: 30px;
-}
-
-.resultBox {
-  
 }

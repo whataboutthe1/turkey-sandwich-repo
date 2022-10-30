@@ -78,7 +78,7 @@ export default function FilterAndSearch() {
       </div>
     </form>
 
-    <div className='resultBox'>
+    <div>
       {!loading && <ResultsDisplay data={JSON.stringify(search)} />}
     </div>
       

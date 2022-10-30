@@ -9,7 +9,7 @@ const ResultsDisplay = (props) => {
   }
   
   return (
-    <div className='results-box'>
+    <div>
       {!props.data && '...' || getProps()}
       </div>
   );
